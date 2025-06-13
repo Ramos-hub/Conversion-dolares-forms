@@ -1,0 +1,10 @@
+C:\Users\Estudiante\Desktop\Cambio segun compra\bin\Debug\Cambio segun compra.exe.config
+C:\Users\Estudiante\Desktop\Cambio segun compra\bin\Debug\Cambio segun compra.exe
+C:\Users\Estudiante\Desktop\Cambio segun compra\bin\Debug\Cambio segun compra.pdb
+C:\Users\Estudiante\Desktop\Cambio segun compra\obj\Debug\Cambio segun compra.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Cambio segun compra\obj\Debug\Cambio_segun_compra.frmCambio.resources
+C:\Users\Estudiante\Desktop\Cambio segun compra\obj\Debug\Cambio_segun_compra.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Cambio segun compra\obj\Debug\Cambio segun compra.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Cambio segun compra\obj\Debug\Cambio segun compra.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Cambio segun compra\obj\Debug\Cambio segun compra.exe
+C:\Users\Estudiante\Desktop\Cambio segun compra\obj\Debug\Cambio segun compra.pdb
